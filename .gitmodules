@@ -16,3 +16,6 @@
 [submodule "bundle/conque_term"]
 	path = bundle/conque_term
 	url = https://github.com/rygwdn/vim-conque.git
+[submodule "bundle/zen_coding"]
+	path = bundle/zen_coding
+	url = https://github.com/mattn/zencoding-vim.git
